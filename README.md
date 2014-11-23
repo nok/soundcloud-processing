@@ -15,7 +15,7 @@ Library to use the [SoundCloud API](https://developers.soundcloud.com/docs/api/g
 
 ## Download
 
-- [SoundCloud for Processing](download/SoundCloudForProcessing.zip?raw=true)
+- [SoundCloud for Processing](download/SoundCloud.zip?raw=true)
 
 
 ## Installation
