@@ -20,7 +20,7 @@ Library to use the [SoundCloud API](https://developers.soundcloud.com/docs/api/g
 
 ## Installation
 
-Unzip and put the extracted *SoundCloudForProcessing* folder into the libraries folder of your Processing sketches. Reference and examples are included in the *SoundCloudForProcessing* folder. For more help read the [tutorial](http://www.learningprocessing.com/tutorials/libraries/) by [Daniel Shiffman](https://github.com/shiffman).
+Unzip and put the extracted *SoundCloud* folder into the libraries folder of your Processing sketches. Reference and examples are included in the *SoundCloud* folder. For more help read the [tutorial](http://www.learningprocessing.com/tutorials/libraries/) by [Daniel Shiffman](https://github.com/shiffman).
 
 
 ## Dependencies
