@@ -25,7 +25,7 @@ Unzip and put the extracted *SoundCloud* folder into the libraries folder of you
 
 ## Dependencies
 
-- [SoundCloud Java library](https://github.com/voidplus/soundcloud-java-library) (It's included internally.)
+- [SoundCloud Java library](https://github.com/nok/soundcloud-java-library) (It's included internally.) [![Build Status](https://travis-ci.org/nok/soundcloud-java-library.svg?branch=master)](https://travis-ci.org/nok/soundcloud-java-library)
 
 
 ## Tested
@@ -88,9 +88,9 @@ void stop(){
 
 ## Questions?
 
-Don't be shy and feel free to contact me via [Twitter](http://twitter.voidplus.de).
+Don't be shy and feel free to contact me on Twitter: [@darius_morawiec](https://twitter.com/darius_morawiec)
 
 
 ## License
 
-[MIT License by SoundCloud](https://raw.github.com/soundcloud/java-api-wrapper/master/LICENSE). The Processing library is Open Source Software released under the [MIT License](MIT-LICENSE.txt). It's developed by [Darius Morawiec](http://voidplus.de).
+[MIT License by SoundCloud](https://raw.github.com/soundcloud/java-api-wrapper/master/LICENSE). The library is Open Source Software released under the [MIT License](MIT-LICENSE.txt).
